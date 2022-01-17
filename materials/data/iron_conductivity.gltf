@@ -21,7 +21,7 @@
         }
     },
     "extensions": {
-        "OpenMaterial_ior_data": {
+        "OpenMaterial_conductivity_data": {
             "data": [
                 {
                     "temperature": 300.0,
