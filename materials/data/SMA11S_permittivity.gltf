@@ -25,7 +25,7 @@
             "data": [
                 {
                     "temperature": 280.0,
-                    "incident_angle": 0.78,					
+                    "incident_angle": 78,					
                     "permittivity": [
                         [8.3, -1.0]					
                     ]
