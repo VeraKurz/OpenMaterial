@@ -27,7 +27,7 @@
                     "temperature": 280.0,
                     "incident_angle": 0.78,					
                     "permittivity": [
-                        [4.64, -1.0]					
+                        [4.64, 3.9E-3]					
                     ]
                 }
             ]
